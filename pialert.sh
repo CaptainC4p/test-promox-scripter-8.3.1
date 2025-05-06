@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-source < home/build.func
+source <(curl -s https://github.com/CaptainC4p/test-promox-scripter-8.3.1/blob/main/build.func)
 # Copyright (c) 2021-2024 tteck
 # Author: tteck (tteckster)
 # License: MIT
